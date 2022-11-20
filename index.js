@@ -1,4 +1,6 @@
-export default function isValidEmail(email) {
+'use strict';
+
+module.exports = function isValidEmail(email) {
     if (!email) {
         throw "Param is not valid to check."
     }
