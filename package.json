@@ -1,15 +1,19 @@
 {
     "name": "@rohitninawe/validation",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Validate the code.",
     "license": "MIT",
     "repository": "https://github.com/rohitninawe/validation",
     "main": "index.js",
     "keywords": [
-      "regex",
+      "array",
       "npm",
       "package",
-      "travelxp",
-      "validation"
+      "rohitninawe",
+      "validation",
+      "email-validation",
+      "email validation",
+      "isArray",
+      "tyeof"
     ]
   }
