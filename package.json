@@ -1,9 +1,9 @@
 {
     "name": "@rohitninawe/validation",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "description": "Validate the code.",
     "license": "MIT",
-    "repository": "https://bitbucket.org/rohitninawe/validation/src/master/",
+    "repository": "https://github.com/rohitninawe/validation",
     "main": "index.js",
     "keywords": [
       "regex",
