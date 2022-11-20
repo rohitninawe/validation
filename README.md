@@ -14,7 +14,7 @@ $ npm install @rohitninawe/validation
 ## Usage
 
 ```js
-import { isValidEmail } from '@rohitninawe/validation';
+import { isValidEmail, safeArray } from '@rohitninawe/validation';
 
 isValidEmail("rohitninawe1020@gmail.com")
 //=> true
