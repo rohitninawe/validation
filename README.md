@@ -3,7 +3,7 @@
 [![npm (scoped)](https://img.shields.io/npm/v/@rohitninawe/validation.svg)](https://www.npmjs.com/package/@rohitninawe/validation)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@rohitninawe/validation.svg)](https://www.npmjs.com/package/@rohitninawe/validation)
 
-Validation the code as much as possible.
+Validate the code as much as possible.
 
 ## Install
 Using npm:
